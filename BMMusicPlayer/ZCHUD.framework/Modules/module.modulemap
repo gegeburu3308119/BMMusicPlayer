@@ -1,0 +1,6 @@
+framework module ZCHUD {
+  umbrella header "ZCHUD.h"
+
+  export *
+  module * { export * }
+}
